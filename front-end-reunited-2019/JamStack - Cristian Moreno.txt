@@ -1,0 +1,9 @@
+JAMSTACK: DE QUÉ HABLAMOS CUANDO HABLAMOS DE HERRAMIENTAS WEB MODERNAS
+By Cristian Moreno
+
+Presentación: https://slides.com/khriztianmoreno/jamstack/
+
+Y repos de ejemplo:
+
+https://github.com/khriztianmoreno/proxy-demo-frucali
+https://github.com/khriztianmoreno/jamstack-demo
